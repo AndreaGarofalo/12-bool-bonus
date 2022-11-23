@@ -1,0 +1,34 @@
+
+.row  {
+    height: 40px;
+}
+
+.bg-black {
+    background-color: #010003;
+}
+
+.bg-rosa {
+    background-color: #e6e5ea;
+}
+
+.bg-red {
+    background-color: #9d484f;
+}
+.bg-dred {
+    background-color: #9d484f;
+}
+
+.bg-brown {
+    background-color: #382d31;
+}
+.container {
+    width: 600px;
+}
+
+.circle {
+    width: 700px;
+    margin: 0px auto;
+    text-align: center;
+    border-radius: 25px;
+    border: 5px solid black;
+}
